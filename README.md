@@ -13,3 +13,6 @@ To achieve our goal, we followed the following approach:
 - **Network Topology:** We investigated the effect of network topology on classification performance. This involved adjusting the number of hidden units and layers in the network to determine their impact on accuracy and training convergence.
 
 - **Training Process:** We utilized mini-batch stochastic gradient descent with momentum for efficient parameter updates during training. We incorporated early stopping using a validation set to prevent overfitting and determined the best model based on the validation performance.
+
+
+## Check the Report.pdf
