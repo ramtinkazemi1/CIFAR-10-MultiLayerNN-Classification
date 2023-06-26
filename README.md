@@ -15,4 +15,4 @@ To achieve our goal, we followed the following approach:
 - **Training Process:** We utilized mini-batch stochastic gradient descent with momentum for efficient parameter updates during training. We incorporated early stopping using a validation set to prevent overfitting and determined the best model based on the validation performance.
 
 
-## Check the Report.pdf
+# Check the Report.pdf
